@@ -1,5 +1,5 @@
 # Mini-Apps
 
 SPM: 
-https://github.com/VislovIvan/CrosswordSPM
-https://github.com/VislovIvan/CityCoreLocationSPM
+- [Crossword SPM](https://github.com/VislovIvan/CrosswordSPM)
+- [CityCoreLocation SPM](https://github.com/VislovIvan/CityCoreLocationSPM)
