@@ -2,4 +2,4 @@
 
 SPM: 
 - [CrosswordSPM](https://github.com/VislovIvan/CrosswordSPM)
-- [CityCoreLocation SPM](https://github.com/VislovIvan/CityCoreLocationSPM)
+- [CityCoreLocationSPM](https://github.com/VislovIvan/CityCoreLocationSPM)
