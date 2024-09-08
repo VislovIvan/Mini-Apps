@@ -1,0 +1,24 @@
+{
+  "originHash" : "036e3359d48397ce70a1dc70ba4609daf9587ecfefe3b8d9bb806ee3903b9e4c",
+  "pins" : [
+    {
+      "identity" : "citycorelocationspm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/VislovIvan/CityCoreLocationSPM",
+      "state" : {
+        "branch" : "main",
+        "revision" : "b7189b4008f93dff607ca3d772a96e1212025198"
+      }
+    },
+    {
+      "identity" : "crosswordspm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/VislovIvan/CrosswordSPM",
+      "state" : {
+        "branch" : "main",
+        "revision" : "dde58c259b6f8088c55addd2e5060280975395b4"
+      }
+    }
+  ],
+  "version" : 3
+}
